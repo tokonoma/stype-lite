@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>32</title>
+  <g id="customize">
+    <polygon id="control3Bottom" class="cls-1" points="28 10 26 10 24 10 22 10 22 12 24 12 24 28 26 28 26 12 28 12 28 10"/>
+    <rect id="control3Top" class="cls-1" x="24" y="4" width="2" height="4"/>
+    <polygon id="control2Bottom" class="cls-1" points="19 14 13 14 13 16 15 16 15 28 17 28 17 16 19 16 19 14"/>
+    <rect id="control2Top" class="cls-1" x="15" y="4" width="2" height="8"/>
+    <polygon id="control1Bottom" class="cls-1" points="10 18 4 18 4 20 6 20 6 28 8 28 8 20 10 20 10 18"/>
+    <rect id="control1Top" class="cls-1" x="6" y="4" width="2" height="12"/>
+  </g>
+</svg>

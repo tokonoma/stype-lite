@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>32</title>
+  <g id="tax">
+    <rect id="largeButton" class="cls-1" x="19" y="15" width="3" height="8"/>
+    <rect id="button9" class="cls-1" x="16" y="21" width="2" height="2"/>
+    <rect id="button8" class="cls-1" x="13" y="21" width="2" height="2"/>
+    <rect id="button7" class="cls-1" x="10" y="21" width="2" height="2"/>
+    <rect id="button6" class="cls-1" x="16" y="18" width="2" height="2"/>
+    <rect id="button5" class="cls-1" x="13" y="18" width="2" height="2"/>
+    <rect id="button4" class="cls-1" x="10" y="18" width="2" height="2"/>
+    <rect id="button3" class="cls-1" x="16" y="15" width="2" height="2"/>
+    <rect id="button2" class="cls-1" x="13" y="15" width="2" height="2"/>
+    <rect id="button1" class="cls-1" x="10" y="15" width="2" height="2"/>
+    <path id="screen" class="cls-1" d="M10,14H22V8H10Zm1-5H21v4H11Z"/>
+    <path id="calculator" class="cls-1" d="M23,4H9A3,3,0,0,0,6,7V25a3,3,0,0,0,3,3H23a3,3,0,0,0,3-3V7A3,3,0,0,0,23,4Zm1,21a1,1,0,0,1-1,1H9a1,1,0,0,1-1-1V7A1,1,0,0,1,9,6H23a1,1,0,0,1,1,1Z"/>
+  </g>
+</svg>

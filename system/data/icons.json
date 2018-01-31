@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "24_add_icon_24.svg",
+    "size": "24",
+    "category": "UI Icon",
+    "tags": ["plus","add","cross","switzerland"]
+  },
+  {
+    "filename": "24_addSml_icon_24.svg",
+    "size": "24",
+    "category": "UI Icon",
+    "tags": ["small","plus","add","cross","switzerland"]
+  }
+]

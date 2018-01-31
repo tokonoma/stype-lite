@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>32</title>
+  <g id="inPractice">
+    <path id="line3" d="M27,25H15a1,1,0,0,1,0-2H27a1,1,0,0,1,0,2Z"/>
+    <path id="line2" d="M27,17H15a1,1,0,0,1,0-2H27a1,1,0,0,1,0,2Z"/>
+    <path id="line1" d="M27,9H15a1,1,0,0,1,0-2H27a1,1,0,0,1,0,2Z"/>
+    <path id="check3" d="M7.5,28A3.5,3.5,0,1,1,11,24.5,3.5,3.5,0,0,1,7.5,28Zm0-5A1.5,1.5,0,1,0,9,24.5,1.5,1.5,0,0,0,7.5,23Z"/>
+    <path id="check2" class="cls-1" d="M10.5,14.2a3.5,3.5,0,1,1-.63-.78L7.5,15.79l-1-1-.71.71L7.5,17.21l.35-.35Z"/>
+    <path id="check1" class="cls-1" d="M10.5,6.2a3.5,3.5,0,1,1-.63-.78L7.5,7.79l-1-1-.71.71L7.5,9.21l.35-.35Z"/>
+  </g>
+</svg>
